@@ -1,3 +1,8 @@
+This project was built in React and uitlizes the NASA API. This API allows users to extract informtion such as; images, description, and title of the image of the day. 
+The application is geared for people who enjoy viewing amazing images of landscapes and space. The application also gives a short description of the image as well as gives credit to the person who took that photo.
+
+Unfortunately, upon review the api key is no longer active. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
